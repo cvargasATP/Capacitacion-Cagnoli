@@ -1,0 +1,569 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="Personalizaciones Cagnoli">
+    <body>
+      <group id="body">
+        <trans-unit id="PageExtension 2240704579 - Action 1225573855 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1716922543">
+          <source>Tesorería</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension GMLocExtensionIOGC - Action GMLocTreasury - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2240704579 - Action 159165900 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1716922543">
+          <source>Configuracion</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension GMLocExtensionIOGC - Action GMLocConfig - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2240704579 - Action 2701381663 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1716922543">
+          <source>Lista de cuentas bancarias</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension GMLocExtensionIOGC - Action GMLocCash Bank Accounts list - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2240704579 - Action 1148592622 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1716922543">
+          <source>Configuración de tesorería</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension GMLocExtensionIOGC - Action GMLocTreasury Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2240704579 - Action 1391692548 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1716922543">
+          <source>Lista de valores</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension GMLocExtensionIOGC - Action GMLocValues list - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2240704579 - Action 696086425 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1716922543">
+          <source>Reportes</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension GMLocExtensionIOGC - Action GMLocReports - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2240704579 - Action 1419632072 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1716922543">
+          <source>Informes de localización</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension GMLocExtensionIOGC - Action GMLocLocalization Reports - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2240704579 - Action 3105575536 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1716922543">
+          <source>View the quantity not yet shipped for each customer in three periods of 30 days each, starting from a selected date. There are also columns with orders to be shipped before and after the three periods and a column with the total order detail for each customer. The report can be used to analyze a company's expected sales volume.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension GMLocExtensionIOGC - Action GMLocRep1 - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2240704579 - Action 3105575536 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1716922543">
+          <source>Resumen de CAja Fecha Doc.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension GMLocExtensionIOGC - Action GMLocRep1 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2240704579 - Action 3743272153 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1716922543">
+          <source>View the quantity not yet shipped for each customer in three periods of 30 days each, starting from a selected date. There are also columns with orders to be shipped before and after the three periods and a column with the total order detail for each customer. The report can be used to analyze a company's expected sales volume.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension GMLocExtensionIOGC - Action GMLocRep2 - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2240704579 - Action 3743272153 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1716922543">
+          <source>Resumen de Caja Fecha Acred.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension GMLocExtensionIOGC - Action GMLocRep2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2240704579 - Action 86001474 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1716922543">
+          <source>View the quantity not yet shipped for each customer in three periods of 30 days each, starting from a selected date. There are also columns with orders to be shipped before and after the three periods and a column with the total order detail for each customer. The report can be used to analyze a company's expected sales volume.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension GMLocExtensionIOGC - Action GMLocRep3 - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2240704579 - Action 86001474 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1716922543">
+          <source>Valores Pendientes</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension GMLocExtensionIOGC - Action GMLocRep3 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2240704579 - Action 723698091 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1716922543">
+          <source>View the quantity not yet shipped for each customer in three periods of 30 days each, starting from a selected date. There are also columns with orders to be shipped before and after the three periods and a column with the total order detail for each customer. The report can be used to analyze a company's expected sales volume.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension GMLocExtensionIOGC - Action GMLocRep4 - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2240704579 - Action 723698091 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1716922543">
+          <source>Caja Detalle</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension GMLocExtensionIOGC - Action GMLocRep4 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2240704579 - Action 2067998193 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1716922543">
+          <source>Trasacciones</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension GMLocExtensionIOGC - Action GMLocTransacciones - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2240704579 - Action 712361337 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1716922543">
+          <source>Anulación</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension GMLocExtensionIOGC - Action GMLocAnnulation - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2240704579 - Action 3627043236 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1716922543">
+          <source>Lista de depositos/retiros</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension GMLocExtensionIOGC - Action GMLocDeposit/Withdrawal list - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2240704579 - Action 230773481 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1716922543">
+          <source>Lista de ordenes de pago</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension GMLocExtensionIOGC - Action GMLocPayment Orders List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2240704579 - Action 1544635481 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1716922543">
+          <source>Lista de recibos</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension GMLocExtensionIOGC - Action GMLocReceipts List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2240704579 - Action 2039291812 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1716922543">
+          <source>Lista de transferencias diferidas</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension GMLocExtensionIOGC - Action GMLocTransfer list deferred - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2240704579 - Action 4030761764 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1716922543">
+          <source>Lista de transferencias</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension GMLocExtensionIOGC - Action GMLocTransfers List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2240704579 - Action 2297001101 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1716922543">
+          <source>Historico</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension GMLocExtensionIOGC - Action GMLocTreasuryHist - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2240704579 - Action 3609892523 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1716922543">
+          <source>Lista de depositos/retiros registrados</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension GMLocExtensionIOGC - Action GMLocPosted Deposit/Withdrawal List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2240704579 - Action 2673354690 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1716922543">
+          <source>Lista de ordenes de pago registradas</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension GMLocExtensionIOGC - Action GMLocPosted Payment Orders List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2240704579 - Action 2890593042 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1716922543">
+          <source>Lista de recibos registrados</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension GMLocExtensionIOGC - Action GMLocPosted Receipts List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2240704579 - Action 1307975043 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1716922543">
+          <source>Lista de transferencias registradas</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension GMLocExtensionIOGC - Action GMLocPosted Transfers List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2240704579 - Action 2694278237 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1716922543">
+          <source>Impuestos</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension GMLocExtensionIOGC - Action GMLocARG Localization - Taxes - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2240704579 - Action 2616626633 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1716922543">
+          <source>Otros</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension GMLocExtensionIOGC - Action GMLocOtros - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2240704579 - Action 1967719592 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1716922543">
+          <source>Fctura electrónica</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension GMLocExtensionIOGC - Action GMLocAFIP - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2240704579 - Action 1460951282 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1716922543">
+          <source>AFIP - Tipo de Documento</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension GMLocExtensionIOGC - Action GMLocAfip2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2240704579 - Action 823254665 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1716922543">
+          <source>AFIP - Tipo de IVA</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension GMLocExtensionIOGC - Action GMLocAfip3 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2240704579 - Action 2736344516 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1716922543">
+          <source>AFIP - Voucher Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension GMLocExtensionIOGC - Action GMLocAfip4 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2240704579 - Action 3350143952 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1716922543">
+          <source>Configuración de factura electronica AFIP</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension GMLocExtensionIOGC - Action GMLocWS AFIP Electronic Invoice Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2240704579 - Action 2727989380 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1716922543">
+          <source>Tipo fiscal</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension GMLocExtensionIOGC - Action GMLocFiscal Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2240704579 - Action 410195591 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1716922543">
+          <source>Selección de informes de tipo fiscal</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension GMLocExtensionIOGC - Action GMLocFiscal type Reports Selection - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2240704579 - Action 2144014020 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1716922543">
+          <source>Series de factura</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension GMLocExtensionIOGC - Action GMLocInvoice Series - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2240704579 - Action 2552504500 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1716922543">
+          <source>Tipo de factura</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension GMLocExtensionIOGC - Action GMLocInvoice Types - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2240704579 - Action 3499111223 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1716922543">
+          <source>Corrector de Tesoreria</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension GMLocExtensionIOGC - Action GMLocOtro1 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2240704579 - Action 1117233778 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1716922543">
+          <source>Corrector de Documentos</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension GMLocExtensionIOGC - Action GMLocOtro2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2240704579 - Action 2645725329 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1716922543">
+          <source>Punto de venta</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension GMLocExtensionIOGC - Action GMLocPoint of Sales - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2240704579 - Action 2011296085 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1716922543">
+          <source>Provincias</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension GMLocExtensionIOGC - Action GMLocProvinces - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2240704579 - Action 2009008276 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1716922543">
+          <source>Percepciones</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension GMLocExtensionIOGC - Action GMLocPercepcion - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2240704579 - Action 2323412204 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1716922543">
+          <source>Area impuesto</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension GMLocExtensionIOGC - Action GMLocTax Area - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2240704579 - Action 2050180767 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1716922543">
+          <source>Detalles de impuesto</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension GMLocExtensionIOGC - Action GMLocTax Details - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2240704579 - Action 3609846909 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1716922543">
+          <source>Grupos de Impuestos</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension GMLocExtensionIOGC - Action GMLocTax Groups - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2240704579 - Action 3274513651 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1716922543">
+          <source>Jurisdicciones de impuesto</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension GMLocExtensionIOGC - Action GMLocTax Jurisdictions - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2240704579 - Action 4209277606 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1716922543">
+          <source>Informes</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension GMLocExtensionIOGC - Action GMLocReportes - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2240704579 - Action 1968973435 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1716922543">
+          <source>Reportes Legales</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension GMLocExtensionIOGC - Action GMLocRepGr1 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2240704579 - Action 367475775 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1716922543">
+          <source>View the quantity not yet shipped for each customer in three periods of 30 days each, starting from a selected date. There are also columns with orders to be shipped before and after the three periods and a column with the total order detail for each customer. The report can be used to analyze a company's expected sales volume.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension GMLocExtensionIOGC - Action GMLocRep11 - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2240704579 - Action 367475775 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1716922543">
+          <source>Libro Diario</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension GMLocExtensionIOGC - Action GMLocRep11 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2240704579 - Action 2280565626 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1716922543">
+          <source>View the quantity not yet shipped for each customer in three periods of 30 days each, starting from a selected date. There are also columns with orders to be shipped before and after the three periods and a column with the total order detail for each customer. The report can be used to analyze a company's expected sales volume.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension GMLocExtensionIOGC - Action GMLocRep12 - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2240704579 - Action 2280565626 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1716922543">
+          <source>Libro de Retenciones</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension GMLocExtensionIOGC - Action GMLocRep12 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2240704579 - Action 1642869009 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1716922543">
+          <source>View the quantity not yet shipped for each customer in three periods of 30 days each, starting from a selected date. There are also columns with orders to be shipped before and after the three periods and a column with the total order detail for each customer. The report can be used to analyze a company's expected sales volume.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension GMLocExtensionIOGC - Action GMLocRep13 - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2240704579 - Action 1642869009 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1716922543">
+          <source>Libro de Percepciones</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension GMLocExtensionIOGC - Action GMLocRep13 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2240704579 - Action 1361394708 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1716922543">
+          <source>View the quantity not yet shipped for each customer in three periods of 30 days each, starting from a selected date. There are also columns with orders to be shipped before and after the three periods and a column with the total order detail for each customer. The report can be used to analyze a company's expected sales volume.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension GMLocExtensionIOGC - Action GMLocRep5 - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2240704579 - Action 1361394708 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1716922543">
+          <source>Libro IVA Ventas</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension GMLocExtensionIOGC - Action GMLocRep5 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2240704579 - Action 1999091325 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1716922543">
+          <source>View the quantity not yet shipped for each customer in three periods of 30 days each, starting from a selected date. There are also columns with orders to be shipped before and after the three periods and a column with the total order detail for each customer. The report can be used to analyze a company's expected sales volume.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension GMLocExtensionIOGC - Action GMLocRep6 - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2240704579 - Action 1999091325 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1716922543">
+          <source>Libro IVA Compras</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension GMLocExtensionIOGC - Action GMLocRep6 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2240704579 - Action 1424811438 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1716922543">
+          <source>View the quantity not yet shipped for each customer in three periods of 30 days each, starting from a selected date. There are also columns with orders to be shipped before and after the three periods and a column with the total order detail for each customer. The report can be used to analyze a company's expected sales volume.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension GMLocExtensionIOGC - Action GMLocRep610 - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2240704579 - Action 1424811438 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1716922543">
+          <source>Libro IVA Compras2</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension GMLocExtensionIOGC - Action GMLocRep610 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2240704579 - Action 2636787942 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1716922543">
+          <source>View the quantity not yet shipped for each customer in three periods of 30 days each, starting from a selected date. There are also columns with orders to be shipped before and after the three periods and a column with the total order detail for each customer. The report can be used to analyze a company's expected sales volume.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension GMLocExtensionIOGC - Action GMLocRep7 - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2240704579 - Action 2636787942 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1716922543">
+          <source>Libro Diario2</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension GMLocExtensionIOGC - Action GMLocRep7 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2240704579 - Action 2298969896 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1716922543">
+          <source>View the quantity not yet shipped for each customer in three periods of 30 days each, starting from a selected date. There are also columns with orders to be shipped before and after the three periods and a column with the total order detail for each customer. The report can be used to analyze a company's expected sales volume.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension GMLocExtensionIOGC - Action GMLocRep9 - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2240704579 - Action 2298969896 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1716922543">
+          <source>Libro IVA Ventas2</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension GMLocExtensionIOGC - Action GMLocRep9 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2240704579 - Action 3882063286 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1716922543">
+          <source>Importacion</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension GMLocExtensionIOGC - Action GMLocRepGr2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2240704579 - Action 3555958860 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1716922543">
+          <source>View the quantity not yet shipped for each customer in three periods of 30 days each, starting from a selected date. There are also columns with orders to be shipped before and after the three periods and a column with the total order detail for each customer. The report can be used to analyze a company's expected sales volume.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension GMLocExtensionIOGC - Action GMLocRep14 - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2240704579 - Action 3555958860 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1716922543">
+          <source>Libro de Percepciones</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension GMLocExtensionIOGC - Action GMLocRep14 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2240704579 - Action 4219765492 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1716922543">
+          <source>Padrones</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension GMLocExtensionIOGC - Action Padrones - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2240704579 - Action 866997644 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1716922543">
+          <source>ARBA</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension GMLocExtensionIOGC - Action ARBA - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2240704579 - Action 3877383412 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1716922543">
+          <source>Padron ARBA</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension GMLocExtensionIOGC - Action GMLocMovimientos ARBA - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2240704579 - Action 3440797683 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1716922543">
+          <source>CABA</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension GMLocExtensionIOGC - Action CABA - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2240704579 - Action 3227365339 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1716922543">
+          <source>Padron CABA</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension GMLocExtensionIOGC - Action GMLocMovimientos CABA - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2240704579 - Action 3051483419 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1716922543">
+          <source>Padrón Jujuy</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension GMLocExtensionIOGC - Action JUJUY - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2240704579 - Action 1078109395 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1716922543">
+          <source>Padron Jujuy</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension GMLocExtensionIOGC - Action GMLocMovimientos Jujuy - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2240704579 - Action 1083632734 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1716922543">
+          <source>Log Padrón</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension GMLocExtensionIOGC - Action LogPadron - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2240704579 - Action 3291170243 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1716922543">
+          <source>Log Proceso Actualización de Alícuotas</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension GMLocExtensionIOGC - Action LogProcAlicuotas - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2240704579 - Action 1244475415 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1716922543">
+          <source>Padrón Tucumán</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension GMLocExtensionIOGC - Action TUCUMAN - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2240704579 - Action 3965236678 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1716922543">
+          <source>Movimientos Padrón de Coeficientes Tucumán</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension GMLocExtensionIOGC - Action GMLocMovimientosCoefTucuman - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2240704579 - Action 1236855199 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1716922543">
+          <source>Padrón Tucumán</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension GMLocExtensionIOGC - Action GMLocMovimientosGralTucuman - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2240704579 - Action 3244366669 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1716922543">
+          <source>Exportaciones</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension GMLocExtensionIOGC - Action GMLocRepGr3 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2240704579 - Action 2918262243 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1716922543">
+          <source>View the quantity not yet shipped for each customer in three periods of 30 days each, starting from a selected date. There are also columns with orders to be shipped before and after the three periods and a column with the total order detail for each customer. The report can be used to analyze a company's expected sales volume.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension GMLocExtensionIOGC - Action GMLocRep15 - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2240704579 - Action 2918262243 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1716922543">
+          <source>IVA Percepciones</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension GMLocExtensionIOGC - Action GMLocRep15 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2240704579 - Action 536384798 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1716922543">
+          <source>View the quantity not yet shipped for each customer in three periods of 30 days each, starting from a selected date. There are also columns with orders to be shipped before and after the three periods and a column with the total order detail for each customer. The report can be used to analyze a company's expected sales volume.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension GMLocExtensionIOGC - Action GMLocRep16 - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2240704579 - Action 536384798 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1716922543">
+          <source>ARBA PErcepcion</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension GMLocExtensionIOGC - Action GMLocRep16 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2240704579 - Action 4193655477 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1716922543">
+          <source>View the quantity not yet shipped for each customer in three periods of 30 days each, starting from a selected date. There are also columns with orders to be shipped before and after the three periods and a column with the total order detail for each customer. The report can be used to analyze a company's expected sales volume.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension GMLocExtensionIOGC - Action GMLocRep17 - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2240704579 - Action 4193655477 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1716922543">
+          <source>ARBA IIBB BSAS</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension GMLocExtensionIOGC - Action GMLocRep17 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2240704579 - Action 1811778032 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1716922543">
+          <source>View the quantity not yet shipped for each customer in three periods of 30 days each, starting from a selected date. There are also columns with orders to be shipped before and after the three periods and a column with the total order detail for each customer. The report can be used to analyze a company's expected sales volume.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension GMLocExtensionIOGC - Action GMLocRep18 - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2240704579 - Action 1811778032 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1716922543">
+          <source>AGIP IIBB CF</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension GMLocExtensionIOGC - Action GMLocRep18 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2240704579 - Action 1174081415 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1716922543">
+          <source>View the quantity not yet shipped for each customer in three periods of 30 days each, starting from a selected date. There are also columns with orders to be shipped before and after the three periods and a column with the total order detail for each customer. The report can be used to analyze a company's expected sales volume.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension GMLocExtensionIOGC - Action GMLocRep19 - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2240704579 - Action 1174081415 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1716922543">
+          <source>SIFERE - Per. IIBB Sufridas</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension GMLocExtensionIOGC - Action GMLocRep19 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2240704579 - Action 213159929 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1716922543">
+          <source>View the quantity not yet shipped for each customer in three periods of 30 days each, starting from a selected date. There are also columns with orders to be shipped before and after the three periods and a column with the total order detail for each customer. The report can be used to analyze a company's expected sales volume.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension GMLocExtensionIOGC - Action GMLocRep20 - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2240704579 - Action 213159929 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1716922543">
+          <source>SIFERE - Ret. IIBB Sufridas</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension GMLocExtensionIOGC - Action GMLocRep20 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2240704579 - Action 850856546 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1716922543">
+          <source>View the quantity not yet shipped for each customer in three periods of 30 days each, starting from a selected date. There are also columns with orders to be shipped before and after the three periods and a column with the total order detail for each customer. The report can be used to analyze a company's expected sales volume.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension GMLocExtensionIOGC - Action GMLocRep21 - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2240704579 - Action 850856546 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1716922543">
+          <source>SICORE Sujetos retenidos</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension GMLocExtensionIOGC - Action GMLocRep21 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2240704579 - Action 3232733991 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1716922543">
+          <source>View the quantity not yet shipped for each customer in three periods of 30 days each, starting from a selected date. There are also columns with orders to be shipped before and after the three periods and a column with the total order detail for each customer. The report can be used to analyze a company's expected sales volume.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension GMLocExtensionIOGC - Action GMLocRep22 - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2240704579 - Action 3232733991 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1716922543">
+          <source>SICORE</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension GMLocExtensionIOGC - Action GMLocRep22 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2240704579 - Action 3870430608 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1716922543">
+          <source>View the quantity not yet shipped for each customer in three periods of 30 days each, starting from a selected date. There are also columns with orders to be shipped before and after the three periods and a column with the total order detail for each customer. The report can be used to analyze a company's expected sales volume.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension GMLocExtensionIOGC - Action GMLocRep23 - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2240704579 - Action 3870430608 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1716922543">
+          <source>SUSS</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension GMLocExtensionIOGC - Action GMLocRep23 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2240704579 - Action 2763946397 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1716922543">
+          <source>View the quantity not yet shipped for each customer in three periods of 30 days each, starting from a selected date. There are also columns with orders to be shipped before and after the three periods and a column with the total order detail for each customer. The report can be used to analyze a company's expected sales volume.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension GMLocExtensionIOGC - Action GMLocRep24 - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2240704579 - Action 2763946397 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1716922543">
+          <source>Percepciones de IVA</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension GMLocExtensionIOGC - Action GMLocRep24 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2240704579 - Action 3401643014 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1716922543">
+          <source>View the quantity not yet shipped for each customer in three periods of 30 days each, starting from a selected date. There are also columns with orders to be shipped before and after the three periods and a column with the total order detail for each customer. The report can be used to analyze a company's expected sales volume.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension GMLocExtensionIOGC - Action GMLocRep25 - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2240704579 - Action 3401643014 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1716922543">
+          <source>CITI Compras</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension GMLocExtensionIOGC - Action GMLocRep25 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2240704579 - Action 1488553163 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1716922543">
+          <source>View the quantity not yet shipped for each customer in three periods of 30 days each, starting from a selected date. There are also columns with orders to be shipped before and after the three periods and a column with the total order detail for each customer. The report can be used to analyze a company's expected sales volume.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension GMLocExtensionIOGC - Action GMLocRep26 - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2240704579 - Action 1488553163 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1716922543">
+          <source>CITI Ventas</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension GMLocExtensionIOGC - Action GMLocRep26 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2240704579 - Action 4006994947 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1716922543">
+          <source>Retenciones</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension GMLocExtensionIOGC - Action GMLocRetencion - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2240704579 - Action 2464170705 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1716922543">
+          <source>Exención retenciones</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension GMLocExtensionIOGC - Action GMLocExencion - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2240704579 - Action 2010931534 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1716922543">
+          <source>Condiciones Impositivas</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension GMLocExtensionIOGC - Action GMLocTaxation - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2240704579 - Action 2726440811 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1716922543">
+          <source>Impuestos</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension GMLocExtensionIOGC - Action GMLocTaxes - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2240704579 - Action 2488791498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1716922543">
+          <source>Detalle de retenciones</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension GMLocExtensionIOGC - Action GMLocWithholding Detail - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2240704579 - Action 3132162205 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1716922543">
+          <source>Lista de comportamientos de retenciones</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension GMLocExtensionIOGC - Action GMLocWithholding Logic list - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2240704579 - Action 550928713 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1716922543">
+          <source>Escala de retenciones</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension GMLocExtensionIOGC - Action GMLocwithholding Scale - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

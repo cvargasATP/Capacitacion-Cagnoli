@@ -1,0 +1,45 @@
+{
+  "id": "0ff1730c-beb7-445b-836a-6500dfe68c75",
+  "name": "Personalizaciones Cagnoli",
+  "publisher": "Grupo MAS SRL",
+  "brief": "Personalizaciones Cagnoli",
+  "description": "Personalizaciones Cagnoli",
+  "version": "2022.12.12.1",
+  "privacyStatement": "http://grupomas.software/BC/privacystatement",
+  "EULA": "http://grupomas.software/BC/EULA",
+  "help": "http://grupomas.software/BC/help",
+  "url": "http://www.grupomas.software",
+  "logo": "",
+  "dependencies": [
+    {
+      "id": "c3e20a47-0c60-4e37-824c-31950e820e1a",
+      "publisher": "Grupo MAS SRL",
+      "name": "Localization for Argentina ES 21.1",
+      "version": "2022.12.22.1"
+    },
+    {
+      "id": "246ec120-c0b9-4688-954a-d8a80e5e2d30",
+      "publisher": "INFOROLOT SA",
+      "name": "IO Cárnicas Base",
+      "version": "21.0.0.137"
+    }
+  ],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "21.0.0.0",
+  "features": ["TranslationFile"],
+  "preprocessorSymbols": ["CLEAN15", "CLEAN16", "CLEAN17", "CLEAN18","CLEAN19", "CLEAN20"],
+  "idRanges": [
+    {
+      "from": 34006393,
+      "to": 34006899
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": false,
+    "includeSourceInSymbolFile": false
+  },
+  "runtime": "10.0",
+  "target":"Cloud"
+}
